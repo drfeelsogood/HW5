@@ -1,0 +1,9 @@
+D:\projects\Rebuild Nation\ca5\ca5\bin\Debug\ca5.exe.config
+D:\projects\Rebuild Nation\ca5\ca5\bin\Debug\ca5.exe
+D:\projects\Rebuild Nation\ca5\ca5\bin\Debug\ca5.pdb
+D:\projects\Rebuild Nation\ca5\ca5\obj\Debug\ca5.csprojResolveAssemblyReference.cache
+D:\projects\Rebuild Nation\ca5\ca5\obj\Debug\ca5.exe
+D:\projects\Rebuild Nation\ca5\ca5\obj\Debug\ca5.pdb
+D:\projects\Rebuild Nation\HomeWorks from ApoCoder\ca5\ca5\bin\Debug\ca5.exe.config
+D:\projects\Rebuild Nation\HomeWorks from ApoCoder\ca5\ca5\obj\Debug\ca5.exe
+D:\projects\Rebuild Nation\HomeWorks from ApoCoder\ca5\ca5\obj\Debug\ca5.pdb
